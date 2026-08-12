@@ -6,4 +6,4 @@ This is a repo that presents my final (and eventually initial) designs that I ma
 
 CAD files and light documentation will be attached so that you can purchase the needed items, 3D-Print, and assemble. Also, you will need access to a 3D-Printer and filament for this project.  
 
-Demo Video: https://youtu.be/uy9UoCy6YxY
+Demo Video: https://youtu.be/uy9UoCy6YxY (The video is a slightly older demo but was the best quality video I had which is why the Cycloidal Disc spline looks a little too small)
