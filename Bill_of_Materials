@@ -1,1 +1,22 @@
-#Bill_of_Materials
+#Bill_of_Materials  
+Keep in mind prices can change if you can find a better deal or get the exact count of each item. The amount of each item required will be placed in square brackets at the end of each line.  
+Every item was bought off Amazon unless stated otherwise. Wire cost isn't included.  
+
+Format:
+
+- Item: (Details about purchase) $Dollar_Amount [Required Item Count]  
+
+Items:  
+
+- Nema-17 17HE19-2004S Stepper Motor: (from StepperOnline.com) $10 [1 NEEDED]  
+- 1/8" x 1" Dowel Pins: ($8.99 per 20ct from ZDingTech on Amazon) $18 [At least 26 NEEDED]  
+- Deep Groove Ball Bearings, ID 35mm, OD 47mm, Width 7mm: (10 pack for $15 dollars but if you can find a cheaper/lesser count then you can get that instead) $15 [1 OPTIONAL]  
+- 24v 6a Power Adapter/Supply: $16 [1 NEEDED]  
+- Deep Groove Ball Bearings, ID 1/2" x OD 3/4" x Width 5/32": ($9.99 for a pack of 10) $10  [2 NEEDED]  
+- Stepper Driver A4988: (6.89 for pack of 3) $6.89 [1 NEEDED]  
+- Shoulder Bolts 4mm Shoulder Dia x 30mm Shoulder Length x M3x0.5 Thread: ($9.29 for 16ct) $9.50 [6 NEEDED]  
+- M3x10mm Machine Screws: (I got a full metric kit for 8.99 but you can definitely get it for less just by buying only M3x10mm screws) $9 [4 NEEDED]  
+- Arduino UNO R3 Board, ATmega328P, 16MHz, USB Cable: (Preferably a kit so you can get wires as well) $10 [1 NEEDED]  
+
+Total: $104.5  
+Most of the cost can be heavily reduced if you either have the item already or get it via single-item purchases  
